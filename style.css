@@ -214,3 +214,45 @@ i{
     font-size: 12px;
     color: #25243291;
 }
+/* Call to Action section */
+.CTA_section{
+    max-width: 1140px;
+    height: 600px;
+    padding: 71px 150px;
+    margin: 0 auto;
+}
+.CTA_section_body{
+    text-align: center;
+}
+.CTA_section_body h3{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Raleway", sans-seri;
+    color: #252432;
+}
+.CTA_section_body p{
+    font-family:"Inter", sans-serif ;
+    color: #2524327c;
+    font-size: 20px;
+}
+.CTA_section_body button{
+     font-family: "Raleway", sans-seri;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 12px;
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    font-weight: bold;
+    margin-top: 30px;
+    font-size: 18px;
+}
+.CTA_img{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+}
+.CTA_img img{
+     border-radius: 48px;
+     margin-top: 40px;
+}
